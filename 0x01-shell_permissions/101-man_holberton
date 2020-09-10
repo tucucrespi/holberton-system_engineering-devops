@@ -10,7 +10,6 @@ Eniac was Turning-complete, and able to solve "a large class of numerical proble
 .SH OPTIONS
 .B eniac
 does not take any options.
-
 .SH SEE ALSO
 .SH BUGS 
 No known bugs.
