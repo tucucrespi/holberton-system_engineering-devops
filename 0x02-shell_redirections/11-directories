@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -mindepth 1 -tipo d | wc -l 
