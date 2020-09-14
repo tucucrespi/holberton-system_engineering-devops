@@ -1,0 +1,5 @@
+case o in
+esac
+
+	#!/bin/bash
+sort | uniq -u
